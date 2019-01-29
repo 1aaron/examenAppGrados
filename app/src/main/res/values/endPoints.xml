@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAMESPACE">http://www.w3schools.com/webservices/</string>
+    <string name="URL">http://www.w3schools.com/webservices/tempconvert.asmx</string>
+    <string name="SOAP_METHOD">CelsiusToFahrenheit</string>
+    <string name="SOAP_ACTION">http://www.w3schools.com/webservices/CelsiusToFahrenheit</string>
+
+    <integer name="TIMEOUT">30000</integer>
+</resources>

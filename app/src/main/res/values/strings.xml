@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">examenAppGrados</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="conversorTitle">Conversor de ºC a ºF</string>
+    <string name="convertir">Convertir</string>
+</resources>
